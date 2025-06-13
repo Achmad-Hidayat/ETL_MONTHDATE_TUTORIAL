@@ -343,5 +343,4 @@ Dengan mengikuti panduan ini, Anda sekarang memiliki:
 
 Selamat mencoba! 🚀
 
-![WhatsApp Image 2025-06-06 at 22 32 03 (1)](https://github.com/user-attachments/assets/ff416dc0-5c8b-411f-9fa1-93971790a71d)
 
