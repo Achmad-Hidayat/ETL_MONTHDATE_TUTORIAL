@@ -186,7 +186,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
                Cd ghost intellixuv
     3. Output menunjukkan proyek diinisialisasi di C:\Users\NAMA_ANDA\ghost_intellix\ghost_intellixuv.
 
-![image](https://github.com/user-attachments/assets/17276dad-204c-4b2c-a3ef-e68214691642)
+![image](https://github.com/user-attachments/assets/188c9a15-2558-4eef-bb99-68a7f1381d74)
  
     Do's:
     - Gunakan struktur folder yang konsisten
