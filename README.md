@@ -163,7 +163,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
     3.	Output seperti Successfully installed uv-0.7.12 menunjukkan keberhasilan.
     4.	Catatan tentang folder ghost_intellixuv: Folder ghost_intellixuv akan dibuat di langkah berikutnya  menggunakan uv init. Perintah ini otomatis membuat folder jika belum ada, karena UV dirancang untuk menginisialisasi direktori proyek baru secara langsung. Anda tidak perlu membuat folder ini secara manual sebelum menjalankan uv init. Untuk memverifikasi folder setelah inisialisasi, ketik dir di CMD untuk melihat daftar direktori.
 
-![image](https://github.com/user-attachments/assets/a5a483b1-87a4-4c7e-90ce-dcf3ee9943a7)
+![image](https://github.com/user-attachments/assets/03341f65-7b07-4129-82c1-a86518b8ffc2)
 
     Do's:
     - Beri nama environment yang deskriptif
