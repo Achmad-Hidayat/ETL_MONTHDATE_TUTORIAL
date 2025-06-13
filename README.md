@@ -72,8 +72,8 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
 	- Ikuti wizard instalasi
 	- Pilih opsi "Add Anaconda to PATH" (opsional)
 
-![image](https://github.com/user-attachments/assets/3df410e7-e113-4520-a70f-f527c3fd6204)
- 
+![image](https://github.com/user-attachments/assets/fe226497-51b5-4de8-8133-497f53f7ee8d)
+
    Do's:
 	- Gunakan pengaturan default jika tidak yakin
 	- Centang opsi PATH jika ingin bisa diakses dari terminal manapun
