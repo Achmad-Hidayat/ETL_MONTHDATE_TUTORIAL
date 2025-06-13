@@ -115,7 +115,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
     6. Tambahkan (ganti NAMA_ANDA):
     7. Klik Ok
 
-![image](https://github.com/user-attachments/assets/f503738e-510e-419e-9a72-dce9d00fd668)
+![image](https://github.com/user-attachments/assets/9028f1f9-8258-467c-93e9-51eb02c27074)
 
     Do's:
     - Pastikan sudah menutup dan membuka terminal baru setelah konfigurasi.
