@@ -52,7 +52,8 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
     - Pilih versi sesuai OS Anda (Windows/macOS/Linux)
     - Klik tombol Download
 
-![image](https://github.com/user-attachments/assets/901655f0-1af9-4488-95aa-1ad47e7f3c1f)
+![image](https://github.com/user-attachments/assets/3df410e7-e113-4520-a70f-f527c3fd6204)
+
    
    Do's:
 	- Download dari situs resmi Anaconda
