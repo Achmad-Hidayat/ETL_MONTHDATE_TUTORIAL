@@ -93,7 +93,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
        conda --version
     3. Jika muncul versi conda, instalasi sudah sukses.
 
-![image](https://github.com/user-attachments/assets/e1a4a445-fc96-4e90-b66a-7975f39b1cdd)
+<img width="359" alt="image" src="https://github.com/user-attachments/assets/ed81b8cd-2182-4637-a21f-a7a76213c296" />
     
     Do's:
     - Gunakan terminal baru setelah instalasi untuk memastikan variabel PATH terbaru terbaca   - Pastikan perintah dijalankan tanpa error.
