@@ -234,7 +234,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
     1.	Ketik: .venv\Scripts\deactivate
     2.	Prompt kembali ke C:\Users\NAMA_ANDA\ghost_intellix\ghost_intellixuv>.
 
-![image](https://github.com/user-attachments/assets/6017c6a5-06bb-4376-8248-d46fae0aece4)
+![image](https://github.com/user-attachments/assets/10f597ba-a88a-426f-92ec-8af386ce16ff)
 
     Do's:
     - Selalu deactivate ketika berpindah konteks.
