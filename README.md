@@ -211,7 +211,7 @@ UV adalah alat manajemen lingkungan Python yang memungkinkan pembuatan, pengelol
     Langkah-langkah:
     1.	Ketik: uv add pandas
 
-![image](https://github.com/user-attachments/assets/61291641-7c48-4db3-b2b4-21958b056d76)
+![image](https://github.com/user-attachments/assets/b027b231-8bae-4cfe-99e6-1deaed83b550)
 
     Do's:
     - Install hanya paket yang diperlukan
